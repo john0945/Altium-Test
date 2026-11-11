@@ -81,7 +81,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=MWYACLSN
 
 [Document3]
 DocumentPath=Schematics\Sheet2_renamed.SchDoc
